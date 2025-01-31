@@ -1,4 +1,4 @@
-O deenvolvimento foi feito seguindo a seguinte ordem de código
+O Denvolvimento foi feito seguindo a seguinte ordem de código
     1. Acesso root: sudo su
     2. Iniciando o setoolkit: setoolkit
     3. Tipo de ataque: social-engineering attacks
